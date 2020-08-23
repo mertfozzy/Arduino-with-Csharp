@@ -1,4 +1,4 @@
-![ArduinoC#](https://lh3.googleusercontent.com/proxy/NeMRFmijgAMgzb2Ap5wmBhrVTjp8rY_MHnziIhuEtW-I3WNsD3SphRGxyeOY6BxdYkUbrYzu9hS6p_FdNngMVz677VLUzkziOtlLaYI6dpzUPMRUKhAPIUuVdvgUE_Or4w)
+![ArduinoC#](https://www.ge-solutions.it/wp-content/uploads/2019/09/corso-csharp-gesolutions.jpg)
 
 
 # Arduino-with-Csharp
