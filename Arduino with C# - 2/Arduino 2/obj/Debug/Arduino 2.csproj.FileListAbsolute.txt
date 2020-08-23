@@ -1,0 +1,10 @@
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\bin\Debug\Arduino 2.exe.config
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\bin\Debug\Arduino 2.exe
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\bin\Debug\Arduino 2.pdb
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\obj\Debug\Arduino 2.csprojAssemblyReference.cache
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\obj\Debug\Arduino_2.Form1.resources
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\obj\Debug\Arduino_2.Properties.Resources.resources
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\obj\Debug\Arduino 2.csproj.GenerateResource.cache
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\obj\Debug\Arduino 2.csproj.CoreCompileInputs.cache
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\obj\Debug\Arduino 2.exe
+C:\Users\mertf\source\repos\Arduino 2\Arduino 2\obj\Debug\Arduino 2.pdb

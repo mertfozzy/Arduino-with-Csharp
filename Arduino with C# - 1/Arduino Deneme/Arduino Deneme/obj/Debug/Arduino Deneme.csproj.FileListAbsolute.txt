@@ -1,0 +1,10 @@
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\obj\Debug\Arduino Deneme.csprojAssemblyReference.cache
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\obj\Debug\Arduino_Deneme.Properties.Resources.resources
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\obj\Debug\Arduino Deneme.csproj.GenerateResource.cache
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\obj\Debug\Arduino Deneme.csproj.CoreCompileInputs.cache
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\obj\Debug\Arduino_Deneme.Form1.resources
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\bin\Debug\Arduino Deneme.exe.config
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\bin\Debug\Arduino Deneme.exe
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\bin\Debug\Arduino Deneme.pdb
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\obj\Debug\Arduino Deneme.exe
+C:\Users\mertf\source\repos\Arduino Deneme\Arduino Deneme\obj\Debug\Arduino Deneme.pdb
