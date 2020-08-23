@@ -1,7 +1,7 @@
-![Arduino](https://st2.myideasoft.com/idea/dz/31/myassets/products/821/arduino-uno-r3-klon-teknoartshop-robitshop-2.jpg?revision=1548423361)
+![ArduinoC#](https://lh3.googleusercontent.com/proxy/NeMRFmijgAMgzb2Ap5wmBhrVTjp8rY_MHnziIhuEtW-I3WNsD3SphRGxyeOY6BxdYkUbrYzu9hS6p_FdNngMVz677VLUzkziOtlLaYI6dpzUPMRUKhAPIUuVdvgUE_Or4w)
 
 
 # Arduino-with-Csharp
-Arduino ve C# Haberleşmesi
-Arduino UNO - Genuino 1.8.13
-Visual Studio Community (.NET Frameworks)
+-Arduino ve C# Haberleşmesi
+-Arduino UNO - Genuino 1.8.13
+-Visual Studio Community (.NET Frameworks)
